@@ -12,7 +12,8 @@ defineProps({
     <h1 class="green">{{ msg }}</h1>
     <h3>
       You Brand success Starts here ... ! 
-      
+            <a target="_blank" href="https://forms.gle/eeC6SfGDQnbNopPL8">Contact Us</a> +
+      <a target="_blank" href="https://instagram.com/helloasir">More Info</a>.
     </h3>
   </div>
 </template>
